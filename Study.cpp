@@ -6,6 +6,9 @@ void main()
 {
 	srand(time(NULL));
 	
-	int intenger = rand() % 11;
-	cout << intenger << endl;
+	int* pa = new int;
+	*pa = 10;
+
+	cout << *pa << endl;
+	delete pa;
 }
