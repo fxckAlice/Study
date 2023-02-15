@@ -3,5 +3,5 @@ using namespace std;
 
 void main()
 {
-	int git_check = 0;
+	int git_check = 1;
 }
