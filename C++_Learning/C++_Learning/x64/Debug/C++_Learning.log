@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mykha\source\repos\Study\C++_Learning\C++_Learning\main.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  C++_Learning.vcxproj -> C:\Users\mykha\source\repos\Study\C++_Learning\x64\Debug\C++_Learning.exe
