@@ -8,5 +8,12 @@ void main()
 	*pa = 10;
 
 	cout << *pa << endl;
+
+	cout << "=============" << endl;
+	cout << "++" << endl;
+	cout << "=============" << endl;
+
+	cout << (*pa) + 1 << endl;
 	delete pa;
+
 }
